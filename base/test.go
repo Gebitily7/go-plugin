@@ -60,6 +60,7 @@ func test() {
 	fmt.Println(a3)
 	fmt.Println(j1, j2, j3)
 	fmt.Println(e3)
+	fmt.Println(e3)
 
 	// i1, i2, i3 := 1, 2.1, 3
 
